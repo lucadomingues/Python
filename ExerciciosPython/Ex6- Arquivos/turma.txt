@@ -1,0 +1,5 @@
+INFORMAÇÕES DA TURMA -> Turma exemplar
+ALUNO: Mario | NOTAS: 10.0 - 8.0 | M�DIA: 9.00 | APROVADO
+ALUNO: Juca | NOTAS: 8.0 - 9.0 | M�DIA: 8.50 | APROVADO
+ALUNO: Mariazinha | NOTAS: 5.0 - 9.0 | M�DIA: 7.00 | APROVADO
+ALUNO: Joaozinho | NOTAS: 4.0 - 6.0 | M�DIA: 5.00 | REPROVADO
